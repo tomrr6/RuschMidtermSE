@@ -1,3 +1,6 @@
 game1
 game2
 game3
+snack1
+snack2
+snack3
